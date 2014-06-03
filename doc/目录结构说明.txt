@@ -1,0 +1,41 @@
+bat
+	windows下的脚本文件
+	
+boot
+	stm32 arm启动文件
+	
+doc
+	说明文档
+	
+eval
+	
+inc
+	自己写的源码的头文件
+	
+lib
+	stm32 3.5版本的库
+	
+list
+	mdk5 的list文件目录
+	
+out
+	mdk5的输出文件目录
+	
+prj
+	mdk5的project
+	
+sample
+	3.5的库的例子
+	
+se
+	slickedit的项目文件
+	
+si
+	source inlight的项目文件
+	
+src
+	自己写的源码
+	
+template
+	3.5的库带的源码
+	

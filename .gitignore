@@ -1,0 +1,23 @@
+#号开头是注释
+#
+
+
+#mdk5 iso.uvgui.k1
+*.k1
+
+#忽略目录
+out/
+list/
+
+*.bak
+
+#se的断点，书签、历史等信息
+*.vpwhist
+
+#se的tag文件
+*.vtg
+
+##############
+/prj/*.k1
+/prj/*.bak
+/out/*.htm
