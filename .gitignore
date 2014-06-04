@@ -21,3 +21,4 @@ list/
 /prj/*.k1
 /prj/*.bak
 /out/*.htm
+*.jb
