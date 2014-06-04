@@ -1,0 +1,7 @@
+				I/O 				功能
+      -   pin (PA.10)
+      - TIM1_CH1N pin (PB.13)  
+      - TIM1_CH2  pin (PA.09)  
+      - TIM1_CH3N pin (PB.15)
+      - TIM1_CH1  pin (PA.08)  
+      - TIM1_CH2N pin (PB.14)  
